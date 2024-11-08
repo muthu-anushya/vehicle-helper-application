@@ -1,0 +1,7 @@
+{
+  "name": "weldingshop",
+  "displayName": "weldingshop",
+  "plugins": [
+    "expo-font"
+  ]
+}

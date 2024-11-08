@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1027400252030",
+    "project_id": "weldingshop-b7682",
+    "storage_bucket": "weldingshop-b7682.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027400252030:android:c58b50e68e3cf31868362f",
+        "android_client_info": {
+          "package_name": "com.weldingshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027400252030-cjj4rdsgp3vf89iqvg7pvmqdiq2mddc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD53vBNCY01aWQ-jdMNB1O4a4_TDC_ZAj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027400252030-cjj4rdsgp3vf89iqvg7pvmqdiq2mddc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
